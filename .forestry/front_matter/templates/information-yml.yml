@@ -13,33 +13,23 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: address_1
-  label: Address 1
-  type: text
-  hidden: false
-  default: ''
-- name: address_2
-  label: Address 2
+- name: address
+  label: Address
   type: text
   hidden: false
   default: ''
 - name: city
-  label: City
+  label: Stad
   type: text
   hidden: false
   default: ''
 - name: state
-  label: State
+  label: Provincie
   type: text
   hidden: false
   default: ''
 - name: postal_code
-  label: Postal code
-  type: text
-  hidden: false
-  default: ''
-- name: country
-  label: Country
+  label: Postcode
   type: text
   hidden: false
   default: ''
